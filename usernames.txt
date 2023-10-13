@@ -1,3 +1,5 @@
+#those are just "sample" names to check. feel free to change these.
+
 ycg
 xvx
 otq
